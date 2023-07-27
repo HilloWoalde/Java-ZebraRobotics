@@ -12,6 +12,6 @@ public class Challenge0Hello {
 
     public static void main(String[] args) {
         System.out.println("Challenge 0:");
-        System.out.println("Hello Worlsd!");
+        System.out.println("Hello World!");
     }
 }
