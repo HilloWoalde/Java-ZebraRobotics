@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author Aidan Pereira
  */
-public class Challenge7ValidInput {
+public class BChallenge7ValidInput {
     public static void main(String[] args) {
         Scanner text = new Scanner(System.in);
         System.out.println("What is your age?");

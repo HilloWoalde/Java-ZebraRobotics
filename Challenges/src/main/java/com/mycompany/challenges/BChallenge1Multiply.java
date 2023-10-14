@@ -8,17 +8,14 @@ package com.mycompany.challenges;
  *
  * @author Aidan Pereira
  */
-public class Challenge2StringWith3 {
+public class BChallenge1Multiply {
     
     public static void main(String[] args) {
-
         System.out.println("Challenge 1:");
-        
-        String a = "Welcome to ";
-        String b = "Java ";
-        String c = "Programming.";
-        
-        System.out.println(a + b + c);
-        
+        for (byte i=0; i<11; i++)
+        System.out.println("7 multiplied by " + i + " is equal to " + (i*7));
+        for (byte i=10; i>-1; i--)
+        System.out.println("7 multiplied by " + i + " is equal to " + (i*7));
     }
+
 }

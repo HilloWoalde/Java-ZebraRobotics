@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author Aidan Pereira
  */
-public class Challenge8BankingApp {
+public class BChallenge8BankingApp {
     public static void main(String[] args) {
         int money = 100;
         Scanner scone = new Scanner(System.in);

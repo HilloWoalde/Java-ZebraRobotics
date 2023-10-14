@@ -4,16 +4,14 @@
 
 package com.mycompany.challenges;
 
-import java.util.Arrays;
-
 /**
  *
  * @author Aidan Pereira
  */
-public class Challenge3FavoriteSongs {
+public class BChallenge0Hello {
 
     public static void main(String[] args) {
-        String[] songs = new String[]{"Numb Little Bug", "Bones", "Enemy", "I am Here", "On Top of the World"};
-        System.out.println(Arrays.toString(songs));
+        System.out.println("Challenge 0:");
+        System.out.println("Hello World!");
     }
 }

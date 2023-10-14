@@ -10,7 +10,7 @@ import java.util.ArrayList;
  *
  * @author Aidan Pereira
  */
-public class Challenge4FavoriteSongs {
+public class BChallenge4FavoriteSongs {
 
     public static void main(String[] args) {
         ArrayList<String> songs = new ArrayList<>();

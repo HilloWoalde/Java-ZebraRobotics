@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author Aidan Pereira
  */
-public class Challenge6Pay {
+public class BChallenge6Pay {
     public static void main(String[] args) {
         Scanner text = new Scanner(System.in);
         System.out.println("What is your pay per hour?");
